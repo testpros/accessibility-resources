@@ -17,6 +17,7 @@ This is a frequently updated collection of accessibility resources put together 
 - [WAVE](https://wave.webaim.org/extension/) - Automated accessibility testing tool; Browser extension(s), Standalone API, and subscription based API (can cost 💵 depending on service used, but generally free)
 - [HTML Code Sniffer](https://github.com/squizlabs/HTML_CodeSniffer) - Free and open source automated tool. Node CLI based using Puppeteer and PhantomJS. Tests against WCAG 2.1 and Section 508.
 - [iOS Accessibility Inspector](https://developer.apple.com/library/archive/technotes/TestingAccessibilityOfiOSApps/TestingtheAccessibilityofiOSApps/TestingtheAccessibilityofiOSApps.html) - iOS Developer Tool for performing accessibility testing of applications via iOS Simulator
+- [CivicActions List of Accessibility Testing Tools](https://accessibility.civicactions.com/guide/tools)
 
 ## CI/CD
 - [pa11y](https://pa11y.org/) - Great tool that uses aXe and/or HTML Code Sniffer from a web-based dashboard, CLI, webservice, and/or CI integration 
